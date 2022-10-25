@@ -4,7 +4,7 @@ Esse projeto foi o primeiro desafio proposto no programa Explorer da Rocketseat 
 
 O desafio consistia em corrigir um código cheio de bugs e inconformidades.
 
-O projeto em si é uma landing page de uma loja de móveis.
+O projeto em si é uma landing page de uma loja de móveis, e o design original foi feito a partir do figma.
 
 <a target="_blank" href="https://clmateus.github.io/Moveis-Customizados/"> Clique aqui para ver o projeto! </a>
 # Tecnologias Usadas

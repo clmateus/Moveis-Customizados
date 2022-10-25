@@ -1,6 +1,6 @@
 # Móveis Customizados
 
-Esse projeto foi o primeiro desafio desenvolvido no programa Explorer da Rocketseat 🚀
+Esse projeto foi o primeiro desafio proposto no programa Explorer da Rocketseat 🚀
 
 O desafio consistia em corrigir um código cheio de bugs e inconformidades.
 
